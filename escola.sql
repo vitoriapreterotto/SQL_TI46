@@ -46,15 +46,15 @@ FOREIGN KEY (Turma_ID) REFERENCES Turma (Turma_ID)
 );
 
 
-INSERT INTO Curso VALUES ('Informática','Desenvolvimento de banco de dados', 1000)
+INSERT INTO Curso VALUES ('Informática','Desenvolvimento de banco de dados', 1000);
 
-INSERT INTO Aluno VALUES ('Vitória Preterotto','07/02/2002', 'vitoria@gmail.com')
+INSERT INTO Aluno VALUES ('Vitória Preterotto','07/02/2002', 'vitoria@gmail.com');
 
-INSERT INTO Instrutor VALUES ('Marcos Cozatti','Técnico de T.I')
+INSERT INTO Instrutor VALUES ('Marcos Cozatti','Técnico de T.I');
 
-INSERT INTO Turma VALUES (2, 1, '10/11/2023','07/02/2025').
+INSERT INTO Turma VALUES (2, 1, '10/11/2023','07/02/2025');
 
-INSERT INTO Matricula VALUES (1, 1, '01/01/2023')
+INSERT INTO Matricula VALUES (1, 1, '01/01/2023');
 
 select * from Curso;
 select * from Aluno;
