@@ -1,0 +1,12 @@
+C:\Users\vitoria.rspreterotto\source\repos\EFCliente46\EFCliente46\bin\Debug\EFCliente46.exe.config
+C:\Users\vitoria.rspreterotto\source\repos\EFCliente46\EFCliente46\bin\Debug\EFCliente46.exe
+C:\Users\vitoria.rspreterotto\source\repos\EFCliente46\EFCliente46\bin\Debug\EFCliente46.pdb
+C:\Users\vitoria.rspreterotto\source\repos\EFCliente46\EFCliente46\bin\Debug\EntityFramework.dll
+C:\Users\vitoria.rspreterotto\source\repos\EFCliente46\EFCliente46\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\vitoria.rspreterotto\source\repos\EFCliente46\EFCliente46\bin\Debug\EntityFramework.xml
+C:\Users\vitoria.rspreterotto\source\repos\EFCliente46\EFCliente46\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\vitoria.rspreterotto\source\repos\EFCliente46\EFCliente46\obj\Debug\EFCliente46.csproj.AssemblyReference.cache
+C:\Users\vitoria.rspreterotto\source\repos\EFCliente46\EFCliente46\obj\Debug\EFCliente46.csproj.CoreCompileInputs.cache
+C:\Users\vitoria.rspreterotto\source\repos\EFCliente46\EFCliente46\obj\Debug\EFClient.0782B153.Up2Date
+C:\Users\vitoria.rspreterotto\source\repos\EFCliente46\EFCliente46\obj\Debug\EFCliente46.exe
+C:\Users\vitoria.rspreterotto\source\repos\EFCliente46\EFCliente46\obj\Debug\EFCliente46.pdb

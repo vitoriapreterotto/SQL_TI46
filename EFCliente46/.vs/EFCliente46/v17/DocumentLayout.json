@@ -1,0 +1,122 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\vitoria.rspreterotto\\source\\repos\\EFCliente46\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8ECFF9F4-E571-4CD9-81CB-82739513B88D}|EFCliente46\\EFCliente46.csproj|c:\\users\\vitoria.rspreterotto\\source\\repos\\efcliente46\\efcliente46\\consulta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8ECFF9F4-E571-4CD9-81CB-82739513B88D}|EFCliente46\\EFCliente46.csproj|solutionrelative:efcliente46\\consulta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8ECFF9F4-E571-4CD9-81CB-82739513B88D}|EFCliente46\\EFCliente46.csproj|c:\\users\\vitoria.rspreterotto\\source\\repos\\efcliente46\\efcliente46\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8ECFF9F4-E571-4CD9-81CB-82739513B88D}|EFCliente46\\EFCliente46.csproj|solutionrelative:efcliente46\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8ECFF9F4-E571-4CD9-81CB-82739513B88D}|EFCliente46\\EFCliente46.csproj|c:\\users\\vitoria.rspreterotto\\source\\repos\\efcliente46\\efcliente46\\alterar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8ECFF9F4-E571-4CD9-81CB-82739513B88D}|EFCliente46\\EFCliente46.csproj|solutionrelative:efcliente46\\alterar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8ECFF9F4-E571-4CD9-81CB-82739513B88D}|EFCliente46\\EFCliente46.csproj|c:\\users\\vitoria.rspreterotto\\source\\repos\\efcliente46\\efcliente46\\deletar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8ECFF9F4-E571-4CD9-81CB-82739513B88D}|EFCliente46\\EFCliente46.csproj|solutionrelative:efcliente46\\deletar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8ECFF9F4-E571-4CD9-81CB-82739513B88D}|EFCliente46\\EFCliente46.csproj|c:\\users\\vitoria.rspreterotto\\source\\repos\\efcliente46\\efcliente46\\incluir.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8ECFF9F4-E571-4CD9-81CB-82739513B88D}|EFCliente46\\EFCliente46.csproj|solutionrelative:efcliente46\\incluir.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8ECFF9F4-E571-4CD9-81CB-82739513B88D}|EFCliente46\\EFCliente46.csproj|c:\\users\\vitoria.rspreterotto\\source\\repos\\efcliente46\\efcliente46\\efclientes46model.edmx||{C99AEA30-8E36-4515-B76F-496F5A48A6AA}|",
+      "RelativeMoniker": "D:0:0:{8ECFF9F4-E571-4CD9-81CB-82739513B88D}|EFCliente46\\EFCliente46.csproj|solutionrelative:efcliente46\\efclientes46model.edmx||{C99AEA30-8E36-4515-B76F-496F5A48A6AA}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\vitoria.rspreterotto\\source\\repos\\EFCliente46\\EFCliente46\\Program.cs",
+              "RelativeDocumentMoniker": "EFCliente46\\Program.cs",
+              "ToolTip": "C:\\Users\\vitoria.rspreterotto\\source\\repos\\EFCliente46\\EFCliente46\\Program.cs",
+              "RelativeToolTip": "EFCliente46\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-25T22:52:16.156Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Consulta.cs",
+              "DocumentMoniker": "C:\\Users\\vitoria.rspreterotto\\source\\repos\\EFCliente46\\EFCliente46\\Consulta.cs",
+              "RelativeDocumentMoniker": "EFCliente46\\Consulta.cs",
+              "ToolTip": "C:\\Users\\vitoria.rspreterotto\\source\\repos\\EFCliente46\\EFCliente46\\Consulta.cs",
+              "RelativeToolTip": "EFCliente46\\Consulta.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-26T00:04:26.666Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Deletar.cs",
+              "DocumentMoniker": "C:\\Users\\vitoria.rspreterotto\\source\\repos\\EFCliente46\\EFCliente46\\Deletar.cs",
+              "RelativeDocumentMoniker": "EFCliente46\\Deletar.cs",
+              "ToolTip": "C:\\Users\\vitoria.rspreterotto\\source\\repos\\EFCliente46\\EFCliente46\\Deletar.cs",
+              "RelativeToolTip": "EFCliente46\\Deletar.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-25T23:51:10.649Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Alterar.cs",
+              "DocumentMoniker": "C:\\Users\\vitoria.rspreterotto\\source\\repos\\EFCliente46\\EFCliente46\\Alterar.cs",
+              "RelativeDocumentMoniker": "EFCliente46\\Alterar.cs",
+              "ToolTip": "C:\\Users\\vitoria.rspreterotto\\source\\repos\\EFCliente46\\EFCliente46\\Alterar.cs",
+              "RelativeToolTip": "EFCliente46\\Alterar.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACAAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-25T23:50:41.101Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Incluir.cs",
+              "DocumentMoniker": "C:\\Users\\vitoria.rspreterotto\\source\\repos\\EFCliente46\\EFCliente46\\Incluir.cs",
+              "RelativeDocumentMoniker": "EFCliente46\\Incluir.cs",
+              "ToolTip": "C:\\Users\\vitoria.rspreterotto\\source\\repos\\EFCliente46\\EFCliente46\\Incluir.cs",
+              "RelativeToolTip": "EFCliente46\\Incluir.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-25T23:50:04.127Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "EFClientes46Model.edmx [Diagram1]",
+              "DocumentMoniker": "C:\\Users\\vitoria.rspreterotto\\source\\repos\\EFCliente46\\EFCliente46\\EFClientes46Model.edmx",
+              "RelativeDocumentMoniker": "EFCliente46\\EFClientes46Model.edmx",
+              "ToolTip": "C:\\Users\\vitoria.rspreterotto\\source\\repos\\EFCliente46\\EFCliente46\\EFClientes46Model.edmx [Diagram1]",
+              "RelativeToolTip": "EFCliente46\\EFClientes46Model.edmx [Diagram1]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001116|",
+              "WhenOpened": "2024-11-25T22:57:10.437Z",
+              "EditorCaption": " [Diagram1]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
